@@ -2,7 +2,7 @@
     "projectType": "appname_sandbox",
     "databaseName": "AppnameDevelopment",
     "db_port": 27020,
-    "hostName": "cluster0.f5udx.mongodb.net",
+    "hostName": "cluster0.01b2uu6.mongodb.net",
     "user": "GouravGupta",
     "replicaSetName": "rs1",
     "url": "mongodb://localhost:27020/AppnameDevelopment?replicaSet=rs1",

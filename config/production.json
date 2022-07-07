@@ -2,10 +2,10 @@
     "projectType": "appname_sandbox",
     "databaseName": "AppnameProduction",
     "db_port": 27017,
-    "hostName": "cluster0.f5udx.mongodb.net",
+    "hostName": "cluster0.01b2uu6.mongodb.net",
     "user": "GouravGupta",
     "replicaSetName": "null",
-    "url": "mongodb+srv://username:password@cluster0.f5udx.mongodb.net/AppnameProduction?retryWrites=true&w=majority",
+    "url": "mongodb+srv://test:TESTDB123@cluster0.01b2uu6.mongodb.net/AppnameProduction?retryWrites=true&w=majority",
     "meta": {
         "project-started": "26 March 2021",
         "beta-release": "0.0.1",
