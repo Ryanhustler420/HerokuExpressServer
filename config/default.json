@@ -1,0 +1,14 @@
+{
+    "projectType": "appname_sandbox",
+    "databaseName": "AppnameDevelopment",
+    "db_port": 27020,
+    "hostName": "cluster0.f5udx.mongodb.net",
+    "user": "GouravGupta",
+    "replicaSetName": "rs1",
+    "url": "mongodb://localhost:27020/AppnameDevelopment?replicaSet=rs1",
+    "meta": {
+        "project-started": "26 March 2021",
+        "beta-release": "0.0.1",
+        "routeVersion": "/sandbox/v1"
+    }
+}

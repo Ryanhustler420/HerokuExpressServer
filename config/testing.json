@@ -1,0 +1,14 @@
+{
+    "projectType": "appname_sandbox",
+    "databaseName": "AppnameTesting",
+    "db_port": 27020,
+    "hostName": "localhost",
+    "user": "Null",
+    "replicaSetName": "rs1",
+    "url": "mongodb://localhost:27020/AppnameTesting?replicaSet=rs1",
+    "meta": {
+        "project-started": "12 Augest 2015",
+        "beta-release": "0.0.1",
+        "routeVersion": "/sandbox/v1"
+    }
+}
